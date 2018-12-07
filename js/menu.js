@@ -1,3 +1,0 @@
-$(function() {
-	$('.mtab>br').remove();
-});

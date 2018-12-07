@@ -1,0 +1,10 @@
+./crawling.py: 1: ./crawling.py: import: not found
+from: can't read /var/mail/bs4
+from: can't read /var/mail/datetime
+from: can't read /var/mail/apscheduler.schedulers.blocking
+./crawling.py: 6: ./crawling.py: Syntax error: "(" unexpected
+./crawling.py: 1: ./crawling.py: import: not found
+from: can't read /var/mail/bs4
+from: can't read /var/mail/datetime
+from: can't read /var/mail/apscheduler.schedulers.blocking
+./crawling.py: 6: ./crawling.py: Syntax error: "(" unexpected
